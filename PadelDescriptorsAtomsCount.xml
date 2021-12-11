@@ -1,0 +1,15 @@
+<Root>
+    <Group name="2D">
+        <Descriptor name="nH" value="true"/>
+        <Descriptor name="nB" value="true"/>
+        <Descriptor name="nC" value="true"/>
+        <Descriptor name="nN" value="true"/>
+        <Descriptor name="nO" value="true"/>
+        <Descriptor name="nS" value="true"/>
+        <Descriptor name="nP" value="true"/>
+        <Descriptor name="nF" value="true"/>
+        <Descriptor name="nCl" value="true"/>
+        <Descriptor name="nI" value="true"/>
+        <Descriptor name="nX" value="true"/>
+    </Group>
+</Root>
